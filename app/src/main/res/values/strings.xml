@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ResumeViewer</string>
+    <string name="project_duration_text">%1$s - %2$s</string>
+</resources>
