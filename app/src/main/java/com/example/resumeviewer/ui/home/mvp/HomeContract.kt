@@ -5,6 +5,7 @@ import com.example.resumeviewer.base.Item
 import com.example.resumeviewer.models.Project
 
 interface HomeContract {
+    //master
     interface View : BaseView {
         fun showData(data: List<Project>)
         fun launchDetailsActivity(project: Project)
